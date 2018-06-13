@@ -1,6 +1,7 @@
 import time
 from selenium import webdriver
 from stor import Box
+from .goods import headphone_page, diaper_page
 
 DATA_PATH = '../data/'
 
@@ -13,7 +14,7 @@ def fetch_each(url):
         driver.find_element_by_name('email').send_keys('BD7C05A8@mail.com')
         driver.find_element_by_id('continue').click()
         driver.find_element_by_name('password').clear()
-        driver.find_element_by_name('password').send_keys('HLW1qu@n')
+        driver.find_element_by_name('password').send_keys('00000000')
         driver.find_element_by_id('signInSubmit').click()
         driver.find_element_by_css_selector('#tmmSwatches ul li:nth-child(2) a').click()
         try:
@@ -36,7 +37,7 @@ def fetch_each(url):
         driver.close()
     return days
 
-if __name__ == '__main__':
+def fetch_each_run():
     box = Box(DATA_PATH)
     book_list = box.get('book_list')
     # shoe_list = box.get('shoe_list')
@@ -56,3 +57,8 @@ if __name__ == '__main__':
     #         except Exception:
     #             continue
     # box.put_json('shoe_shipment', shipment, force=True)
+
+if __name__ == '__main__':
+    baby = 57770 # diapers
+    teenager = 95124 # most electronics
+    aged = 33880 # products by aged

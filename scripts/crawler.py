@@ -1,8 +1,8 @@
 '''\
     Crawling package
 '''
+
 from urllib import request
-import time
 
 def page_of(uri):
     '''\

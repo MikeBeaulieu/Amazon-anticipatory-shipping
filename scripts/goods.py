@@ -10,14 +10,11 @@ def shoe_pages(index):
 def book_pages(index):
     return 'https://www.amazon.com/gp/bestsellers/books/283155/ref=s9_acsd_ri_bw_clnk_r?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-8&pf_rd_r=6GXV26VEE07RR9SGHB29&pf_rd_r=6GXV26VEE07RR9SGHB29&pf_rd_t=101&pf_rd_p=b8c0a303-a08e-4b0b-bd49-040811fd7080&pf_rd_p=b8c0a303-a08e-4b0b-bd49-040811fd7080&pf_rd_i=283155#{}'.format(index)
 
-def electronics_pages(index):
-    pass
+def headphone_page():
+    return 'https://www.amazon.com/BENGOO-Controller-Cancelling-Headphones-Surround/dp/B01H6GUCCQ/?pldnSite=1'
 
-def household_pages(index):
-    pass
-
-def food_pages(index):
-    pass
+def diaper_page():
+    return 'https://www.amazon.com/Diaper-Genie-Playtex-Carbon-Filters/dp/B01DQID0N6/ref=sr_1_1_a_it?ie=UTF8&qid=1528141783&sr=8-1&keywords=diaper+genie+playtex+carbon+filter+refill+tray+for+diaper'
 
 def fetch_shoes():
     links = []
@@ -56,5 +53,4 @@ def fetch_books():
     return links
 
 if __name__ == '__main__':
-    # fetch_shoes()
-    # fetch_books()
+    pass

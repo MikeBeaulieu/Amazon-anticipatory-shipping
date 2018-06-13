@@ -1,0 +1,2597 @@
+"State, Index, Value"
+Alabama,1,4779736
+Alaska,1,710231
+Arizona,1,6392017
+Arkansas,1,2915918
+California,1,37253956
+Colorado,1,5029196
+Connecticut,1,3574097
+Delaware,1,897934
+District of Columbia,1,601723
+Florida,1,18801310
+Georgia,1,9687653
+Hawaii,1,1360301
+Idaho,1,1567582
+Illinois,1,12830632
+Indiana,1,6483802
+Iowa,1,3046355
+Kansas,1,2853118
+Kentucky,1,4339367
+Louisiana,1,4533372
+Maine,1,1328361
+Maryland,1,5773552
+Massachusetts,1,6547629
+Michigan,1,9883640
+Minnesota,1,5303925
+Mississippi,1,2967297
+Missouri,1,5988927
+Montana,1,989415
+Nebraska,1,1826341
+Nevada,1,2700551
+New Hampshire,1,1316470
+New Jersey,1,8791894
+New Mexico,1,2059179
+New York,1,19378102
+North Carolina,1,9535483
+North Dakota,1,672591
+Ohio,1,11536504
+Oklahoma,1,3751351
+Oregon,1,3831074
+Pennsylvania,1,12702379
+Rhode Island,1,1052567
+South Carolina,1,4625364
+South Dakota,1,814180
+Tennessee,1,6346105
+Texas,1,25145561
+Utah,1,2763885
+Vermont,1,625741
+Virginia,1,8001024
+Washington,1,6724540
+West Virginia,1,1852994
+Wisconsin,1,5686986
+Wyoming,1,563626
+Puerto Rico,1,3725789
+NAME,2,P0120002
+Alabama,2,2320188
+Alaska,2,369628
+Arizona,2,3175823
+Arkansas,2,1431637
+California,2,18517830
+Colorado,2,2520662
+Connecticut,2,1739614
+Delaware,2,434939
+District of Columbia,2,284222
+Florida,2,9189355
+Georgia,2,4729171
+Hawaii,2,681243
+Idaho,2,785324
+Illinois,2,6292276
+Indiana,2,3189737
+Iowa,2,1508319
+Kansas,2,1415408
+Kentucky,2,2134952
+Louisiana,2,2219292
+Maine,2,650056
+Maryland,2,2791762
+Massachusetts,2,3166628
+Michigan,2,4848114
+Minnesota,2,2632132
+Mississippi,2,1441240
+Missouri,2,2933477
+Montana,2,496667
+Nebraska,2,906296
+Nevada,2,1363616
+New Hampshire,2,649394
+New Jersey,2,4279600
+New Mexico,2,1017421
+New York,2,9377147
+North Carolina,2,4645492
+North Dakota,2,339864
+Ohio,2,5632156
+Oklahoma,2,1856977
+Oregon,2,1896002
+Pennsylvania,2,6190363
+Rhode Island,2,508400
+South Carolina,2,2250101
+South Dakota,2,407381
+Tennessee,2,3093504
+Texas,2,12472280
+Utah,2,1388317
+Vermont,2,308206
+Virginia,2,3925983
+Washington,2,3349707
+West Virginia,2,913586
+Wisconsin,2,2822400
+Wyoming,2,287437
+Puerto Rico,2,1785171
+NAME,3,P0120003
+Alabama,3,155265
+Alaska,3,27896
+Arizona,3,232562
+Arkansas,3,100950
+California,3,1294056
+Colorado,3,176361
+Connecticut,3,103475
+Delaware,3,28415
+District of Columbia,3,16533
+Florida,3,547985
+Georgia,3,350673
+Hawaii,3,45019
+Idaho,3,62468
+Illinois,3,425893
+Indiana,3,221819
+Iowa,3,103401
+Kansas,3,104888
+Kentucky,3,144179
+Louisiana,3,160136
+Maine,3,35767
+Maryland,3,185916
+Massachusetts,3,187605
+Michigan,3,304587
+Minnesota,3,181342
+Mississippi,3,107465
+Missouri,3,199528
+Montana,3,32129
+Nebraska,3,67630
+Nevada,3,95772
+New Hampshire,3,35586
+New Jersey,3,276269
+New Mexico,3,74078
+New York,3,590879
+North Carolina,3,322871
+North Dakota,3,22821
+Ohio,3,367479
+Oklahoma,3,134700
+Oregon,3,121828
+Pennsylvania,3,373216
+Rhode Island,3,29396
+South Carolina,3,153432
+South Dakota,3,30535
+Tennessee,3,208119
+Texas,3,984149
+Utah,3,135533
+Vermont,3,16339
+Virginia,3,260107
+Washington,3,225088
+West Virginia,3,53300
+Wisconsin,3,183391
+Wyoming,3,20596
+Puerto Rico,3,115173
+NAME,4,P0120004
+Alabama,4,157340
+Alaska,4,26038
+Arizona,4,231246
+Arkansas,4,100871
+California,4,1279563
+Colorado,4,177782
+Connecticut,4,113763
+Delaware,4,28777
+District of Columbia,4,13198
+Florida,4,551053
+Georgia,4,353909
+Hawaii,4,42847
+Idaho,4,61887
+Illinois,4,438556
+Indiana,4,227736
+Iowa,4,102669
+Kansas,4,103421
+Kentucky,4,144859
+Louisiana,4,156386
+Maine,4,38081
+Maryland,4,186865
+Massachusetts,4,196547
+Michigan,4,326145
+Minnesota,4,181614
+Mississippi,4,105042
+Missouri,4,199591
+Montana,4,30932
+Nebraska,4,65888
+Nevada,4,93773
+New Hampshire,4,39544
+New Jersey,4,288621
+New Mexico,4,72736
+New York,4,594362
+North Carolina,4,324900
+North Dakota,4,20520
+Ohio,4,382641
+Oklahoma,4,132918
+Oregon,4,121159
+Pennsylvania,4,384359
+Rhode Island,4,31051
+South Carolina,4,150301
+South Dakota,4,28544
+Tennessee,4,210090
+Texas,4,983814
+Utah,4,127676
+Vermont,4,17854
+Virginia,4,260549
+Washington,4,219702
+West Virginia,4,54429
+Wisconsin,4,188286
+Wyoming,4,19203
+Puerto Rico,4,123228
+NAME,5,P0120005
+Alabama,5,163417
+Alaska,5,26147
+Arizona,5,228995
+Arkansas,5,100896
+California,5,1325915
+Colorado,5,170192
+Connecticut,5,122924
+Delaware,5,28953
+District of Columbia,5,12641
+Florida,5,578689
+Georgia,5,352577
+Hawaii,5,41699
+Idaho,5,60104
+Illinois,5,449160
+Indiana,5,230960
+Iowa,5,103327
+Kansas,5,102156
+Kentucky,5,145813
+Louisiana,5,156872
+Maine,5,40495
+Maryland,5,193068
+Massachusetts,5,207419
+Michigan,5,345558
+Minnesota,5,180356
+Mississippi,5,106606
+Missouri,5,203213
+Montana,5,31620
+Nebraska,5,62686
+Nevada,5,93672
+New Hampshire,5,43594
+New Jersey,5,300316
+New Mexico,5,72021
+New York,5,619243
+North Carolina,5,322795
+North Dakota,5,20361
+Ohio,5,396152
+Oklahoma,5,130260
+Oregon,5,124118
+Pennsylvania,5,405227
+Rhode Island,5,32673
+South Carolina,5,152166
+South Dakota,5,27678
+Tennessee,5,215039
+Texas,5,962866
+Utah,5,117163
+Vermont,5,19351
+Virginia,5,261624
+Washington,5,224717
+West Virginia,5,55544
+Wisconsin,5,192232
+Wyoming,5,18592
+Puerto Rico,5,137289
+NAME,6,P0120006
+Alabama,6,102627
+Alaska,6,16325
+Arizona,6,139101
+Arkansas,6,61220
+California,6,857058
+Colorado,6,103140
+Connecticut,6,78034
+Delaware,6,18690
+District of Columbia,6,8517
+Florida,6,369264
+Georgia,6,215202
+Hawaii,6,26447
+Idaho,6,35788
+Illinois,6,284750
+Indiana,6,142591
+Iowa,6,63993
+Kansas,6,62164
+Kentucky,6,89616
+Louisiana,6,97399
+Maine,6,26709
+Maryland,6,124251
+Massachusetts,6,133828
+Michigan,6,224021
+Minnesota,6,113281
+Mississippi,6,66650
+Missouri,6,127366
+Montana,6,20228
+Nebraska,6,38945
+Nevada,6,57241
+New Hampshire,6,28340
+New Jersey,6,191271
+New Mexico,6,45494
+New York,6,406797
+North Carolina,6,196737
+North Dakota,6,13086
+Ohio,6,249638
+Oklahoma,6,78355
+Oregon,6,76739
+Pennsylvania,6,266649
+Rhode Island,6,21556
+South Carolina,6,94739
+South Dakota,6,17342
+Tennessee,6,131933
+Texas,6,579420
+Utah,6,66961
+Vermont,6,12804
+Virginia,6,164747
+Washington,6,140695
+West Virginia,6,35394
+Wisconsin,6,121681
+Wyoming,6,11385
+Puerto Rico,6,86833
+NAME,7,P0120007
+Alabama,7,72524
+Alaska,7,10854
+Arizona,7,98179
+Arkansas,7,42958
+California,7,598024
+Colorado,7,72590
+Connecticut,7,50915
+Delaware,7,13962
+District of Columbia,7,10434
+Florida,7,262023
+Georgia,7,147732
+Hawaii,7,18143
+Idaho,7,23148
+Illinois,7,188986
+Indiana,7,100899
+Iowa,7,47246
+Kansas,7,43198
+Kentucky,7,62491
+Louisiana,7,68348
+Maine,7,18832
+Maryland,7,83998
+Massachusetts,7,101052
+Michigan,7,155456
+Minnesota,7,75313
+Mississippi,7,47495
+Missouri,7,89573
+Montana,7,14287
+Nebraska,7,27088
+Nevada,7,36832
+New Hampshire,7,19428
+New Jersey,7,118073
+New Mexico,7,31298
+New York,7,292751
+North Carolina,7,141534
+North Dakota,7,11540
+Ohio,7,171337
+Oklahoma,7,57289
+Oregon,7,53938
+Pennsylvania,7,195816
+Rhode Island,7,18601
+South Carolina,7,73511
+South Dakota,7,12340
+Tennessee,7,91069
+Texas,7,389266
+Utah,7,44766
+Vermont,7,10855
+Virginia,7,116755
+Washington,7,96882
+West Virginia,7,26465
+Wisconsin,7,83122
+Wyoming,7,8241
+Puerto Rico,7,58020
+NAME,8,P0120008
+Alabama,8,36159
+Alaska,8,5828
+Arizona,8,48719
+Arkansas,8,21649
+California,8,298655
+Colorado,8,36244
+Connecticut,8,24865
+Delaware,8,6972
+District of Columbia,8,5854
+Florida,8,131467
+Georgia,8,73069
+Hawaii,8,9872
+Idaho,8,10616
+Illinois,8,92304
+Indiana,8,50209
+Iowa,8,24151
+Kansas,8,22103
+Kentucky,8,31057
+Louisiana,8,33822
+Maine,8,8824
+Maryland,8,41974
+Massachusetts,8,50888
+Michigan,8,75606
+Minnesota,8,37231
+Mississippi,8,22835
+Missouri,8,43723
+Montana,8,7099
+Nebraska,8,13766
+Nevada,8,18271
+New Hampshire,8,9552
+New Jersey,8,56438
+New Mexico,8,15432
+New York,8,149840
+North Carolina,8,71885
+North Dakota,8,6652
+Ohio,8,82813
+Oklahoma,8,28480
+Oregon,8,26793
+Pennsylvania,8,96664
+Rhode Island,8,9645
+South Carolina,8,37651
+South Dakota,8,6128
+Tennessee,8,45113
+Texas,8,189570
+Utah,8,18656
+Vermont,8,5421
+Virginia,8,60167
+Washington,8,48909
+West Virginia,8,13265
+Wisconsin,8,41007
+Wyoming,8,4406
+Puerto Rico,8,29425
+NAME,9,P0120009
+Alabama,9,34103
+Alaska,9,5824
+Arizona,9,46398
+Arkansas,9,20666
+California,9,289108
+Colorado,9,35258
+Connecticut,9,23744
+Delaware,9,6559
+District of Columbia,9,5412
+Florida,9,126865
+Georgia,9,69430
+Hawaii,9,10408
+Idaho,9,10798
+Illinois,9,88424
+Indiana,9,47542
+Iowa,9,22805
+Kansas,9,21205
+Kentucky,9,29718
+Louisiana,9,33701
+Maine,9,8436
+Maryland,9,39735
+Massachusetts,9,47778
+Michigan,9,69957
+Minnesota,9,35730
+Mississippi,9,21769
+Missouri,9,42047
+Montana,9,7106
+Nebraska,9,13227
+Nevada,9,17649
+New Hampshire,9,9145
+New Jersey,9,55148
+New Mexico,9,14390
+New York,9,143298
+North Carolina,9,69841
+North Dakota,9,6332
+Ohio,9,79176
+Oklahoma,9,27728
+Oregon,9,25744
+Pennsylvania,9,92575
+Rhode Island,9,9186
+South Carolina,9,35316
+South Dakota,9,6055
+Tennessee,9,43074
+Texas,9,184652
+Utah,9,22238
+Vermont,9,5003
+Virginia,9,59159
+Washington,9,47583
+West Virginia,9,12364
+Wisconsin,9,39578
+Wyoming,9,4211
+Puerto Rico,9,26883
+NAME,10,P0120010
+Alabama,10,97258
+Alaska,10,18054
+Arizona,10,134445
+Arkansas,10,58486
+California,10,853022
+Colorado,10,110263
+Connecticut,10,68508
+Delaware,10,17962
+District of Columbia,10,17535
+Florida,10,368731
+Georgia,10,201978
+Hawaii,10,31701
+Idaho,10,33368
+Illinois,10,266785
+Indiana,10,130517
+Iowa,10,62511
+Kansas,10,62142
+Kentucky,10,86657
+Louisiana,10,101767
+Maine,10,23166
+Maryland,10,118214
+Massachusetts,10,137590
+Michigan,10,193006
+Minnesota,10,107764
+Mississippi,10,60829
+Missouri,10,122023
+Montana,10,20734
+Nebraska,10,39239
+Nevada,10,55228
+New Hampshire,10,24401
+New Jersey,10,167844
+New Mexico,10,43152
+New York,10,418864
+North Carolina,10,194922
+North Dakota,10,18546
+Ohio,10,222213
+Oklahoma,10,81726
+Oregon,10,75924
+Pennsylvania,10,252647
+Rhode Island,10,22398
+South Carolina,10,95579
+South Dakota,10,17480
+Tennessee,10,124718
+Texas,10,558131
+Utah,10,72713
+Vermont,10,12258
+Virginia,10,174715
+Washington,10,141639
+West Virginia,10,34296
+Wisconsin,10,116312
+Wyoming,10,12698
+Puerto Rico,10,74269
+NAME,11,P0120011
+Alabama,11,153716
+Alaska,11,29307
+Arizona,11,225608
+Arkansas,11,96155
+California,11,1408698
+Colorado,11,192007
+Connecticut,11,107986
+Delaware,11,28719
+District of Columbia,11,32167
+Florida,11,594897
+Georgia,11,333831
+Hawaii,11,50683
+Idaho,11,54818
+Illinois,11,456887
+Indiana,11,210811
+Iowa,11,101509
+Kansas,11,101077
+Kentucky,11,143707
+Louisiana,11,166926
+Maine,11,36145
+Maryland,11,194223
+Massachusetts,11,218255
+Michigan,11,295323
+Minnesota,11,187562
+Mississippi,11,98610
+Missouri,11,201438
+Montana,11,33135
+Nebraska,11,65891
+Nevada,11,100301
+New Hampshire,11,36938
+New Jersey,11,277775
+New Mexico,11,71419
+New York,11,680203
+North Carolina,11,311499
+North Dakota,11,26451
+Ohio,11,357837
+Oklahoma,11,135908
+Oregon,11,133636
+Pennsylvania,11,392569
+Rhode Island,11,33126
+South Carolina,11,151620
+South Dakota,11,28958
+Tennessee,11,206997
+Texas,11,938966
+Utah,11,118426
+Vermont,11,17713
+Virginia,11,283970
+Washington,11,245014
+West Virginia,11,55073
+Wisconsin,11,189349
+Wyoming,11,21752
+Puerto Rico,11,118578
+NAME,12,P0120012
+Alabama,12,146424
+Alaska,12,24861
+Arizona,12,212223
+Arkansas,12,92277
+California,12,1304347
+Colorado,12,181317
+Connecticut,12,102038
+Delaware,12,26409
+District of Columbia,12,26617
+Florida,12,555239
+Georgia,12,324379
+Hawaii,12,44921
+Idaho,12,52206
+Illinois,12,433782
+Indiana,12,204713
+Iowa,12,94027
+Kansas,12,91335
+Kentucky,12,142068
+Louisiana,12,148120
+Maine,12,35662
+Maryland,12,179279
+Massachusetts,12,198338
+Michigan,12,285510
+Minnesota,12,174549
+Mississippi,12,92461
+Missouri,12,186306
+Montana,12,30209
+Nebraska,12,59085
+Nevada,12,97802
+New Hampshire,12,35301
+New Jersey,12,275366
+New Mexico,12,64586
+New York,12,629759
+North Carolina,12,304807
+North Dakota,12,21601
+Ohio,12,344087
+Oklahoma,12,122914
+Oregon,12,131139
+Pennsylvania,12,364681
+Rhode Island,12,30056
+South Carolina,12,142881
+South Dakota,12,25625
+Tennessee,12,201529
+Texas,12,882887
+Utah,12,110492
+Vermont,12,16908
+Virginia,12,261654
+Washington,12,229863
+West Virginia,12,56821
+Wisconsin,12,178120
+Wyoming,12,18919
+Puerto Rico,12,119708
+NAME,13,P0120013
+Alabama,13,151078
+Alaska,13,23731
+Arizona,13,210224
+Arkansas,13,91484
+California,13,1291370
+Colorado,13,182350
+Connecticut,13,108637
+Delaware,13,27059
+District of Columbia,13,21447
+Florida,13,585141
+Georgia,13,340454
+Hawaii,13,43994
+Idaho,13,49149
+Illinois,13,426476
+Indiana,13,208907
+Iowa,13,89574
+Kansas,13,87100
+Kentucky,13,143758
+Louisiana,13,137544
+Maine,13,39302
+Maryland,13,181543
+Massachusetts,13,203757
+Michigan,13,302902
+Minnesota,13,165815
+Mississippi,13,91364
+Missouri,13,183144
+Montana,13,28355
+Nebraska,13,56043
+Nevada,13,97965
+New Hampshire,13,40556
+New Jersey,13,289398
+New Mexico,13,61392
+New York,13,613775
+North Carolina,13,324681
+North Dakota,13,19209
+Ohio,13,356420
+Oklahoma,13,117446
+Oregon,13,127827
+Pennsylvania,13,380172
+Rhode Island,13,31185
+South Carolina,13,145905
+South Dakota,13,23276
+Tennessee,13,209760
+Texas,13,876139
+Utah,13,90812
+Vermont,13,17982
+Virginia,13,268137
+Washington,13,226850
+West Virginia,13,59112
+Wisconsin,13,174619
+Wyoming,13,17702
+Puerto Rico,13,115981
+NAME,14,P0120014
+Alabama,14,152707
+Alaska,14,24646
+Arizona,14,205899
+Arkansas,14,91214
+California,14,1313323
+Colorado,14,175758
+Connecticut,14,127555
+Delaware,14,29390
+District of Columbia,14,19136
+Florida,14,623330
+Georgia,14,344098
+Hawaii,14,45253
+Idaho,14,47948
+Illinois,14,432756
+Indiana,14,212134
+Iowa,14,94810
+Kansas,14,87760
+Kentucky,14,145723
+Louisiana,14,142158
+Maine,14,44957
+Maryland,14,200934
+Massachusetts,14,228652
+Michigan,14,330419
+Minnesota,14,177234
+Mississippi,14,91664
+Missouri,14,188854
+Montana,14,28848
+Nebraska,14,55905
+Nevada,14,99225
+New Hampshire,14,48022
+New Jersey,14,317703
+New Mexico,14,62249
+New York,14,663333
+North Carolina,14,329652
+North Dakota,14,19617
+Ohio,14,377896
+Oklahoma,14,114943
+Oregon,14,125760
+Pennsylvania,14,421689
+Rhode Island,14,35635
+South Carolina,14,149319
+South Dakota,14,24208
+Tennessee,14,213014
+Texas,14,846865
+Utah,14,78587
+Vermont,14,20603
+Virginia,14,280401
+Washington,14,232587
+West Virginia,14,60717
+Wisconsin,14,191738
+Wyoming,14,17149
+Puerto Rico,14,114941
+NAME,15,P0120015
+Alabama,15,169103
+Alaska,15,28398
+Arizona,15,212499
+Arkansas,15,101382
+California,15,1341984
+Colorado,15,185148
+Connecticut,15,141757
+Delaware,15,32764
+District of Columbia,15,19534
+Florida,15,691335
+Georgia,15,353137
+Hawaii,15,48213
+Idaho,15,51546
+Illinois,15,463423
+Indiana,15,234880
+Iowa,15,107876
+Kansas,15,100199
+Kentucky,15,159866
+Louisiana,15,159073
+Maine,15,52861
+Maryland,15,221969
+Massachusetts,15,251937
+Michigan,15,367747
+Minnesota,15,203588
+Mississippi,15,101271
+Missouri,15,220099
+Montana,15,35234
+Nebraska,15,64171
+Nevada,15,99524
+New Hampshire,15,56067
+New Jersey,15,344613
+New Mexico,15,71419
+New York,15,709523
+North Carolina,15,341432
+North Dakota,15,23461
+Ohio,15,420425
+Oklahoma,15,129816
+Oregon,15,130601
+Pennsylvania,15,470543
+Rhode Island,15,39435
+South Carolina,15,161848
+South Dakota,15,28953
+Tennessee,15,228086
+Texas,15,874863
+Utah,15,77451
+Vermont,15,24514
+Virginia,15,304989
+Washington,15,246507
+West Virginia,15,65769
+Wisconsin,15,218539
+Wyoming,15,19713
+Puerto Rico,15,115470
+NAME,16,P0120016
+Alabama,16,168725
+Alaska,16,29288
+Arizona,16,202411
+Arkansas,16,99146
+California,16,1266543
+Colorado,16,184243
+Connecticut,16,138961
+Delaware,16,31713
+District of Columbia,16,18114
+Florida,16,650033
+Georgia,16,324343
+Hawaii,16,48831
+Idaho,16,52006
+Illinois,16,455953
+Indiana,16,233891
+Iowa,16,111584
+Kansas,16,101040
+Kentucky,16,156619
+Louisiana,16,161186
+Maine,16,54129
+Maryland,16,211218
+Massachusetts,16,241668
+Michigan,16,376056
+Minnesota,16,200663
+Mississippi,16,100994
+Missouri,16,218081
+Montana,16,38747
+Nebraska,16,65210
+Nevada,16,92136
+New Hampshire,16,55864
+New Jersey,16,328135
+New Mexico,16,71383
+New York,16,687779
+North Carolina,16,323702
+North Dakota,16,25306
+Ohio,16,434740
+Oklahoma,16,129931
+Oregon,16,134896
+Pennsylvania,16,484289
+Rhode Island,16,39138
+South Carolina,16,156907
+South Dakota,16,29861
+Tennessee,16,222283
+Texas,16,827933
+Utah,16,75545
+Vermont,16,25773
+Virginia,16,288783
+Washington,16,245997
+West Virginia,16,70744
+Wisconsin,16,218303
+Wyoming,16,22450
+Puerto Rico,16,110600
+NAME,17,P0120017
+Alabama,17,149633
+Alaska,17,26394
+Arizona,17,178665
+Arkansas,17,88935
+California,17,1069976
+Colorado,17,161766
+Connecticut,17,116699
+Delaware,17,27147
+District of Columbia,17,15994
+Florida,17,569009
+Georgia,17,271779
+Hawaii,17,46148
+Idaho,17,48095
+Illinois,17,392322
+Indiana,17,205257
+Iowa,17,102309
+Kansas,17,90190
+Kentucky,17,139800
+Louisiana,17,141798
+Maine,17,49861
+Maryland,17,179108
+Massachusetts,17,208594
+Michigan,17,333377
+Minnesota,17,174321
+Mississippi,17,89321
+Missouri,17,188437
+Montana,17,37835
+Nebraska,17,58068
+Nevada,17,80947
+New Hampshire,17,47759
+New Jersey,17,272186
+New Mexico,17,65567
+New York,17,591847
+North Carolina,17,285244
+North Dakota,17,23634
+Ohio,17,383440
+Oklahoma,17,114982
+Oregon,17,132857
+Pennsylvania,17,430202
+Rhode Island,17,33908
+South Carolina,17,142682
+South Dakota,17,27445
+Tennessee,17,198721
+Texas,17,691275
+Utah,17,65841
+Vermont,17,23905
+Virginia,17,246591
+Washington,17,221321
+West Virginia,17,68576
+Wisconsin,17,192952
+Wyoming,17,20928
+Puerto Rico,17,102262
+NAME,18,P0120018
+Alabama,18,55413
+Alaska,18,8884
+Arizona,18,68397
+Arkansas,18,33359
+California,18,378044
+Colorado,18,56765
+Connecticut,18,40316
+Delaware,18,10215
+District of Columbia,18,5819
+Florida,18,215283
+Georgia,18,99268
+Hawaii,18,17616
+Idaho,18,17436
+Illinois,18,136853
+Indiana,18,72705
+Iowa,18,35985
+Kansas,18,31703
+Kentucky,18,51721
+Louisiana,18,49966
+Maine,18,18598
+Maryland,18,63542
+Massachusetts,18,74794
+Michigan,18,117928
+Minnesota,18,59951
+Mississippi,18,32621
+Missouri,18,67552
+Montana,18,13784
+Nebraska,18,20600
+Nevada,18,30575
+New Hampshire,18,16969
+New Jersey,18,95399
+New Mexico,18,25031
+New York,18,214047
+North Carolina,18,105821
+North Dakota,18,8082
+Ohio,18,137346
+Oklahoma,18,41612
+Oregon,18,49235
+Pennsylvania,18,151093
+Rhode Island,18,12321
+South Carolina,18,54657
+South Dakota,18,9629
+Tennessee,18,74374
+Texas,18,241090
+Utah,18,22621
+Vermont,18,8847
+Virginia,18,89586
+Washington,18,79594
+West Virginia,18,26607
+Wisconsin,18,67592
+Wyoming,18,7338
+Puerto Rico,18,40118
+NAME,19,P0120019
+Alabama,19,76190
+Alaska,19,10347
+Arizona,19,98557
+Arkansas,19,46997
+California,19,501127
+Colorado,19,75624
+Connecticut,19,56623
+Delaware,19,14701
+District of Columbia,19,7579
+Florida,19,318585
+Georgia,19,135282
+Hawaii,19,23263
+Idaho,19,24106
+Illinois,19,182050
+Indiana,19,96274
+Iowa,19,47265
+Kansas,19,41795
+Kentucky,19,69504
+Louisiana,19,66801
+Maine,19,25763
+Maryland,19,86399
+Massachusetts,19,101501
+Michigan,19,157332
+Minnesota,19,77809
+Mississippi,19,44490
+Missouri,19,91968
+Montana,19,18340
+Nebraska,19,26451
+Nevada,19,43716
+New Hampshire,19,23284
+New Jersey,19,131611
+New Mexico,19,33170
+New York,19,286312
+North Carolina,19,149213
+North Dakota,19,10218
+Ohio,19,183075
+Oklahoma,19,56989
+Oregon,19,65974
+Pennsylvania,19,206915
+Rhode Island,19,16648
+South Carolina,19,78105
+South Dakota,19,12471
+Tennessee,19,103550
+Texas,19,324730
+Utah,19,29791
+Vermont,19,11762
+Virginia,19,122727
+Washington,19,106784
+West Virginia,19,35444
+Wisconsin,19,88164
+Wyoming,19,9540
+Puerto Rico,19,59972
+NAME,20,P0120020
+Alabama,20,42086
+Alaska,20,5367
+Arizona,20,56200
+Arkansas,20,26937
+California,20,268273
+Colorado,20,38901
+Connecticut,20,30759
+Delaware,20,8232
+District of Columbia,20,4213
+Florida,20,186654
+Georgia,20,72588
+Hawaii,20,13322
+Idaho,20,13265
+Illinois,20,96703
+Indiana,20,52173
+Iowa,20,25235
+Kansas,20,22418
+Kentucky,20,37407
+Louisiana,20,36172
+Maine,20,13681
+Maryland,20,45472
+Massachusetts,20,53860
+Michigan,20,85187
+Minnesota,20,41889
+Mississippi,20,24220
+Missouri,20,51366
+Montana,20,10044
+Nebraska,20,14559
+Nevada,20,24214
+New Hampshire,20,12180
+New Jersey,20,69559
+New Mexico,20,18033
+New York,20,151551
+North Carolina,20,81146
+North Dakota,20,5669
+Ohio,20,93704
+Oklahoma,20,32589
+Oregon,20,35709
+Pennsylvania,20,109313
+Rhode Island,20,8745
+South Carolina,20,43887
+South Dakota,20,6594
+Tennessee,20,57342
+Texas,20,177155
+Utah,20,16480
+Vermont,20,6305
+Virginia,20,65559
+Washington,20,57792
+West Virginia,20,18857
+Wisconsin,20,46962
+Wyoming,20,5058
+Puerto Rico,20,34544
+NAME,21,P0120021
+Alabama,21,55807
+Alaska,21,6347
+Arizona,21,77399
+Arkansas,21,35992
+California,21,341951
+Colorado,21,48833
+Connecticut,21,39499
+Delaware,21,11214
+District of Columbia,21,5392
+Florida,21,261539
+Georgia,21,93762
+Hawaii,21,15527
+Idaho,21,17883
+Illinois,21,129191
+Indiana,21,69917
+Iowa,21,34407
+Kansas,21,28849
+Kentucky,21,50282
+Louisiana,21,46958
+Maine,21,17751
+Maryland,21,59401
+Massachusetts,21,69267
+Michigan,21,114074
+Minnesota,21,55644
+Mississippi,21,31980
+Missouri,21,69873
+Montana,21,13411
+Nebraska,21,18497
+Nevada,21,32424
+New Hampshire,21,15746
+New Jersey,21,92045
+New Mexico,21,23929
+New York,21,200704
+North Carolina,21,106979
+North Dakota,21,7233
+Ohio,21,130093
+Oklahoma,21,42690
+Oregon,21,46221
+Pennsylvania,21,149340
+Rhode Island,21,11254
+South Carolina,21,57840
+South Dakota,21,8970
+Tennessee,21,75797
+Texas,21,226114
+Utah,21,21479
+Vermont,21,8081
+Virginia,21,85719
+Washington,21,73272
+West Virginia,21,25681
+Wisconsin,21,62206
+Wyoming,21,6497
+Puerto Rico,21,45634
+NAME,22,P0120022
+Alabama,22,72143
+Alaska,22,6662
+Arizona,22,102628
+Arkansas,22,47209
+California,22,443402
+Colorado,22,59773
+Connecticut,22,47331
+Delaware,22,14139
+District of Columbia,22,6671
+Florida,22,357908
+Georgia,22,112713
+Hawaii,22,19140
+Idaho,22,22648
+Illinois,22,163405
+Indiana,22,88090
+Iowa,22,46140
+Kansas,22,38113
+Kentucky,22,63888
+Louisiana,22,60121
+Maine,22,22234
+Maryland,22,72158
+Massachusetts,22,85791
+Michigan,22,140775
+Minnesota,22,70840
+Mississippi,22,42228
+Missouri,22,88753
+Montana,22,16806
+Nebraska,22,25108
+Nevada,22,40470
+New Hampshire,22,18698
+New Jersey,22,115666
+New Mexico,22,30879
+New York,22,258616
+North Carolina,22,133021
+North Dakota,22,9635
+Ohio,22,167142
+Oklahoma,22,55836
+Oregon,22,57120
+Pennsylvania,22,192187
+Rhode Island,22,13805
+South Carolina,22,70340
+South Dakota,22,12064
+Tennessee,22,94112
+Texas,22,283865
+Utah,22,27677
+Vermont,22,9534
+Virginia,22,105177
+Washington,22,88760
+West Virginia,22,33358
+Wisconsin,22,81067
+Wyoming,22,8126
+Puerto Rico,22,61731
+NAME,23,P0120023
+Alabama,23,51927
+Alaska,23,4150
+Arizona,23,76221
+Arkansas,23,33929
+California,23,337174
+Colorado,23,43456
+Connecticut,23,37908
+Delaware,23,10656
+District of Columbia,23,4782
+Florida,23,280087
+Georgia,23,77156
+Hawaii,23,14940
+Idaho,23,15960
+Illinois,23,122706
+Indiana,23,64775
+Iowa,23,36112
+Kansas,23,30202
+Kentucky,23,45087
+Louisiana,23,43236
+Maine,23,17338
+Maryland,23,53066
+Massachusetts,23,68931
+Michigan,23,104920
+Minnesota,23,54464
+Mississippi,23,28913
+Missouri,23,67506
+Montana,23,11987
+Nebraska,23,20206
+Nevada,23,27623
+New Hampshire,23,14311
+New Jersey,23,90298
+New Mexico,23,22883
+New York,23,200049
+North Carolina,23,94981
+North Dakota,23,8125
+Ohio,23,126706
+Oklahoma,23,41390
+Oregon,23,41253
+Pennsylvania,23,153890
+Rhode Island,23,11219
+South Carolina,23,49294
+South Dakota,23,9475
+Tennessee,23,65637
+Texas,23,208530
+Utah,23,21045
+Vermont,23,7108
+Virginia,23,75311
+Washington,23,64325
+West Virginia,23,23255
+Wisconsin,23,62181
+Wyoming,23,5704
+Puerto Rico,23,43625
+NAME,24,P0120024
+Alabama,24,33684
+Alaska,24,2620
+Arizona,24,51509
+Arkansas,24,22391
+California,24,245402
+Colorado,24,29773
+Connecticut,24,30369
+Delaware,24,7177
+District of Columbia,24,3516
+Florida,24,205925
+Georgia,24,48500
+Hawaii,24,11904
+Idaho,24,11073
+Illinois,24,92019
+Indiana,24,47290
+Iowa,24,28032
+Kansas,24,23029
+Kentucky,24,30112
+Louisiana,24,29905
+Maine,24,12125
+Maryland,24,38419
+Massachusetts,24,53551
+Michigan,24,80635
+Minnesota,24,40865
+Mississippi,24,19366
+Missouri,24,47180
+Montana,24,8781
+Nebraska,24,15243
+Nevada,24,17239
+New Hampshire,24,10058
+New Jersey,24,69529
+New Mexico,24,15504
+New York,24,150993
+North Carolina,24,63573
+North Dakota,24,6314
+Ohio,24,95450
+Oklahoma,24,28049
+Oregon,24,30860
+Pennsylvania,24,120931
+Rhode Island,24,9262
+South Carolina,24,30710
+South Dakota,24,7453
+Tennessee,24,43111
+Texas,24,139029
+Utah,24,15054
+Vermont,24,5183
+Virginia,24,51110
+Washington,24,45743
+West Virginia,24,17099
+Wisconsin,24,47549
+Wyoming,24,4176
+Puerto Rico,24,27582
+NAME,25,P0120025
+Alabama,25,22859
+Alaska,25,1660
+Arizona,25,37738
+Arkansas,25,16534
+California,25,210815
+Colorado,25,23118
+Connecticut,25,26948
+Delaware,25,5114
+District of Columbia,25,3117
+Florida,25,158313
+Georgia,25,33311
+Hawaii,25,11352
+Idaho,25,9008
+Illinois,25,72892
+Indiana,25,35647
+Iowa,25,23351
+Kansas,25,19321
+Kentucky,25,21020
+Louisiana,25,20897
+Maine,25,9339
+Maryland,25,31010
+Massachusetts,25,45025
+Michigan,25,61593
+Minnesota,25,34307
+Mississippi,25,13046
+Missouri,25,35856
+Montana,25,7016
+Nebraska,25,12790
+Nevada,25,11017
+New Hampshire,25,8051
+New Jersey,25,56337
+New Mexico,25,11376
+New York,25,122622
+North Carolina,25,44256
+North Dakota,25,5451
+Ohio,25,72346
+Oklahoma,25,20426
+Oregon,25,26671
+Pennsylvania,25,95396
+Rhode Island,25,8157
+South Carolina,25,21411
+South Dakota,25,6297
+Tennessee,25,30036
+Texas,25,100971
+Utah,25,11310
+Vermont,25,4103
+Virginia,25,38446
+Washington,25,40083
+West Virginia,25,11416
+Wisconsin,25,37450
+Wyoming,25,3053
+Puerto Rico,25,23305
+NAME,26,P0120026
+Alabama,26,2459548
+Alaska,26,340603
+Arizona,26,3216194
+Arkansas,26,1484281
+California,26,18736126
+Colorado,26,2508534
+Connecticut,26,1834483
+Delaware,26,462995
+District of Columbia,26,317501
+Florida,26,9611955
+Georgia,26,4958482
+Hawaii,26,679058
+Idaho,26,782258
+Illinois,26,6538356
+Indiana,26,3294065
+Iowa,26,1538036
+Kansas,26,1437710
+Kentucky,26,2204415
+Louisiana,26,2314080
+Maine,26,678305
+Maryland,26,2981790
+Massachusetts,26,3381001
+Michigan,26,5035526
+Minnesota,26,2671793
+Mississippi,26,1526057
+Missouri,26,3055450
+Montana,26,492748
+Nebraska,26,920045
+Nevada,26,1336935
+New Hampshire,26,667076
+New Jersey,26,4512294
+New Mexico,26,1041758
+New York,26,10000955
+North Carolina,26,4889991
+North Dakota,26,332727
+Ohio,26,5904348
+Oklahoma,26,1894374
+Oregon,26,1935072
+Pennsylvania,26,6512016
+Rhode Island,26,544167
+South Carolina,26,2375263
+South Dakota,26,406799
+Tennessee,26,3252601
+Texas,26,12673281
+Utah,26,1375568
+Vermont,26,317535
+Virginia,26,4075041
+Washington,26,3374833
+West Virginia,26,939408
+Wisconsin,26,2864586
+Wyoming,26,276189
+Puerto Rico,26,1940618
+NAME,27,P0120027
+Alabama,27,149692
+Alaska,27,26100
+Arizona,27,223153
+Arkansas,27,96739
+California,27,1237277
+Colorado,27,167599
+Connecticut,27,98631
+Delaware,27,27471
+District of Columbia,27,16080
+Florida,27,525521
+Georgia,27,336112
+Hawaii,27,42388
+Idaho,27,59304
+Illinois,27,409684
+Indiana,27,212256
+Iowa,27,98722
+Kansas,27,100604
+Kentucky,27,138188
+Louisiana,27,154124
+Maine,27,33753
+Maryland,27,178572
+Massachusetts,27,179482
+Michigan,27,291699
+Minnesota,27,174162
+Mississippi,27,103491
+Missouri,27,190709
+Montana,27,30294
+Nebraska,27,64278
+Nevada,27,91706
+New Hampshire,27,34220
+New Jersey,27,264751
+New Mexico,27,70903
+New York,27,564943
+North Carolina,27,309169
+North Dakota,27,21774
+Ohio,27,353377
+Oklahoma,27,129426
+Oregon,27,115728
+Pennsylvania,27,356322
+Rhode Island,27,28052
+South Carolina,27,148865
+South Dakota,27,29086
+Tennessee,27,199694
+Texas,27,944324
+Utah,27,128391
+Vermont,27,15613
+Virginia,27,249518
+Washington,27,214569
+West Virginia,27,50760
+Wisconsin,27,175052
+Wyoming,27,19607
+Puerto Rico,27,109583
+NAME,28,P0120028
+Alabama,28,150889
+Alaska,28,24849
+Arizona,28,222434
+Arkansas,28,96006
+California,28,1226276
+Colorado,28,170821
+Connecticut,28,108808
+Delaware,28,27709
+District of Columbia,28,12949
+Florida,28,529202
+Georgia,28,341252
+Hawaii,28,40514
+Idaho,28,59308
+Illinois,28,420849
+Indiana,28,217085
+Iowa,28,97977
+Kansas,28,99026
+Kentucky,28,138029
+Louisiana,28,149976
+Maine,28,36035
+Maryland,28,180003
+Massachusetts,28,189140
+Michigan,28,311639
+Minnesota,28,173922
+Mississippi,28,100630
+Missouri,28,190872
+Montana,28,29833
+Nebraska,28,63040
+Nevada,28,89304
+New Hampshire,28,38212
+New Jersey,28,276129
+New Mexico,28,70572
+New York,28,569593
+North Carolina,28,311045
+North Dakota,28,19556
+Ohio,28,365248
+Oklahoma,28,126418
+Oregon,28,116055
+Pennsylvania,28,369276
+Rhode Island,28,29389
+South Carolina,28,145552
+South Dakota,28,26987
+Tennessee,28,202091
+Texas,28,944420
+Utah,28,121896
+Vermont,28,16800
+Virginia,28,251300
+Washington,28,210175
+West Virginia,28,51587
+Wisconsin,28,180331
+Wyoming,28,18010
+Puerto Rico,28,116776
+NAME,29,P0120029
+Alabama,29,156238
+Alaska,29,24669
+Arizona,29,219669
+Arkansas,29,96663
+California,29,1265015
+Colorado,29,162462
+Connecticut,29,117341
+Delaware,29,27895
+District of Columbia,29,12400
+Florida,29,552158
+Georgia,29,337107
+Hawaii,29,39840
+Idaho,29,56851
+Illinois,29,430288
+Indiana,29,221211
+Iowa,29,97577
+Kansas,29,96728
+Kentucky,29,138341
+Louisiana,29,149964
+Maine,29,38518
+Maryland,29,185961
+Massachusetts,29,198194
+Michigan,29,329658
+Minnesota,29,171986
+Mississippi,29,101642
+Missouri,29,193712
+Montana,29,29504
+Nebraska,29,60020
+Nevada,29,89501
+New Hampshire,29,41026
+New Jersey,29,287019
+New Mexico,29,69670
+New York,29,592213
+North Carolina,29,308309
+North Dakota,29,19429
+Ohio,29,378547
+Oklahoma,29,123404
+Oregon,29,118435
+Pennsylvania,29,385924
+Rhode Island,29,31151
+South Carolina,29,145120
+South Dakota,29,26282
+Tennessee,29,203902
+Texas,29,919017
+Utah,29,110788
+Vermont,29,18286
+Virginia,29,249622
+Washington,29,213516
+West Virginia,29,53501
+Wisconsin,29,183695
+Wyoming,29,17363
+Puerto Rico,29,131282
+NAME,30,P0120030
+Alabama,30,96991
+Alaska,30,15354
+Arizona,30,131854
+Arkansas,30,58130
+California,30,809880
+Colorado,30,97252
+Connecticut,30,74039
+Delaware,30,17855
+District of Columbia,30,8497
+Florida,30,348219
+Georgia,30,204720
+Hawaii,30,25064
+Idaho,30,33362
+Illinois,30,269999
+Indiana,30,134640
+Iowa,30,60327
+Kansas,30,57952
+Kentucky,30,84346
+Louisiana,30,93158
+Maine,30,25175
+Maryland,30,118328
+Massachusetts,30,126708
+Michigan,30,210761
+Minnesota,30,107400
+Mississippi,30,64029
+Missouri,30,120445
+Montana,30,19023
+Nebraska,30,36734
+Nevada,30,54039
+New Hampshire,30,26712
+New Jersey,30,180838
+New Mexico,30,43198
+New York,30,386899
+North Carolina,30,185809
+North Dakota,30,12324
+Ohio,30,237669
+Oklahoma,30,74185
+Oregon,30,72391
+Pennsylvania,30,251182
+Rhode Island,30,20688
+South Carolina,30,90299
+South Dakota,30,16343
+Tennessee,30,125133
+Texas,30,547814
+Utah,30,62619
+Vermont,30,12186
+Virginia,30,156210
+Washington,30,132892
+West Virginia,30,32903
+Wisconsin,30,114824
+Wyoming,30,10646
+Puerto Rico,30,83131
+NAME,31,P0120031
+Alabama,31,71329
+Alaska,31,9608
+Arizona,31,92448
+Arkansas,31,41497
+California,31,558978
+Colorado,31,66493
+Connecticut,31,47846
+Delaware,31,14076
+District of Columbia,31,12471
+Florida,31,248876
+Georgia,31,142345
+Hawaii,31,16340
+Idaho,31,23061
+Illinois,31,178357
+Indiana,31,97385
+Iowa,31,45271
+Kansas,31,40507
+Kentucky,31,60342
+Louisiana,31,67874
+Maine,31,17594
+Maryland,31,79664
+Massachusetts,31,101168
+Michigan,31,149361
+Minnesota,31,71835
+Mississippi,31,46445
+Missouri,31,86402
+Montana,31,13186
+Nebraska,31,26163
+Nevada,31,34488
+New Hampshire,31,19140
+New Jersey,31,107917
+New Mexico,31,29871
+New York,31,279831
+North Carolina,31,135511
+North Dakota,31,10524
+Ohio,31,165038
+Oklahoma,31,54655
+Oregon,31,51792
+Pennsylvania,31,191419
+Rhode Island,31,19201
+South Carolina,31,70440
+South Dakota,31,11603
+Tennessee,31,89051
+Texas,31,366624
+Utah,31,46744
+Vermont,31,10167
+Virginia,31,113253
+Washington,31,91659
+West Virginia,31,25330
+Wisconsin,31,79582
+Wyoming,31,7870
+Puerto Rico,31,56275
+NAME,32,P0120032
+Alabama,32,36159
+Alaska,32,4800
+Arizona,32,45037
+Arkansas,32,21121
+California,32,274987
+Colorado,32,33193
+Connecticut,32,23274
+Delaware,32,7069
+District of Columbia,32,6662
+Florida,32,126563
+Georgia,32,70402
+Hawaii,32,8616
+Idaho,32,11588
+Illinois,32,87309
+Indiana,32,48785
+Iowa,32,23076
+Kansas,32,20655
+Kentucky,32,30211
+Louisiana,32,34429
+Maine,32,8584
+Maryland,32,39039
+Massachusetts,32,50360
+Michigan,32,73744
+Minnesota,32,35501
+Mississippi,32,22963
+Missouri,32,42805
+Montana,32,6690
+Nebraska,32,13114
+Nevada,32,17283
+New Hampshire,32,9039
+New Jersey,32,52322
+New Mexico,32,14503
+New York,32,143243
+North Carolina,32,69191
+North Dakota,32,5832
+Ohio,32,81173
+Oklahoma,32,27588
+Oregon,32,25669
+Pennsylvania,32,95278
+Rhode Island,32,9892
+South Carolina,32,36195
+South Dakota,32,5779
+Tennessee,32,44267
+Texas,32,179470
+Utah,32,23548
+Vermont,32,5012
+Virginia,32,57278
+Washington,32,45177
+West Virginia,32,12608
+Wisconsin,32,39756
+Wyoming,32,3971
+Puerto Rico,32,28780
+NAME,33,P0120033
+Alabama,33,34370
+Alaska,33,4753
+Arizona,33,42944
+Arkansas,33,20104
+California,33,266667
+Colorado,33,32127
+Connecticut,33,22591
+Delaware,33,6813
+District of Columbia,33,6365
+Florida,33,121737
+Georgia,33,67821
+Hawaii,33,8445
+Idaho,33,10978
+Illinois,33,84371
+Indiana,33,46771
+Iowa,33,21890
+Kansas,33,19726
+Kentucky,33,28939
+Louisiana,33,34062
+Maine,33,8130
+Maryland,33,37730
+Massachusetts,33,48594
+Michigan,33,68527
+Minnesota,33,34864
+Mississippi,33,21706
+Missouri,33,41464
+Montana,33,6411
+Nebraska,33,12452
+Nevada,33,16609
+New Hampshire,33,9211
+New Jersey,33,51071
+New Mexico,33,13847
+New York,33,138298
+North Carolina,33,66328
+North Dakota,33,5675
+Ohio,33,77869
+Oklahoma,33,26304
+Oregon,33,24831
+Pennsylvania,33,90682
+Rhode Island,33,9322
+South Carolina,33,34384
+South Dakota,33,5684
+Tennessee,33,43282
+Texas,33,174363
+Utah,33,22935
+Vermont,33,4648
+Virginia,33,55759
+Washington,33,44300
+West Virginia,33,11941
+Wisconsin,33,38638
+Wyoming,33,3763
+Puerto Rico,33,26221
+NAME,34,P0120034
+Alabama,34,97273
+Alaska,34,15160
+Arizona,34,125041
+Arkansas,34,57624
+California,34,783510
+Colorado,34,101530
+Connecticut,34,64916
+Delaware,34,17492
+District of Columbia,34,22282
+Florida,34,353395
+Georgia,34,197380
+Hawaii,34,26787
+Idaho,34,30861
+Illinois,34,259771
+Indiana,34,128202
+Iowa,34,58917
+Kansas,34,58623
+Kentucky,34,83386
+Louisiana,34,100528
+Maine,34,22506
+Maryland,34,117006
+Massachusetts,34,140458
+Michigan,34,188232
+Minnesota,34,104561
+Mississippi,34,60792
+Missouri,34,121227
+Montana,34,19098
+Nebraska,34,37478
+Nevada,34,52469
+New Hampshire,34,23198
+New Jersey,34,158415
+New Mexico,34,41046
+New York,34,417392
+North Carolina,34,189406
+North Dakota,34,15919
+Ohio,34,219872
+Oklahoma,34,77416
+Oregon,34,74087
+Pennsylvania,34,246300
+Rhode Island,34,21724
+South Carolina,34,93369
+South Dakota,34,16470
+Tennessee,34,125790
+Texas,34,530893
+Utah,34,66429
+Vermont,34,11509
+Virginia,34,165013
+Washington,34,133904
+West Virginia,34,32730
+Wisconsin,34,111261
+Wyoming,34,11269
+Puerto Rico,34,75272
+NAME,35,P0120035
+Alabama,35,157318
+Alaska,35,26112
+Arizona,35,214390
+Arkansas,35,95998
+California,35,1335711
+Colorado,35,180452
+Connecticut,35,106159
+Delaware,35,28884
+District of Columbia,35,37482
+Florida,35,584330
+Georgia,35,340104
+Hawaii,35,46619
+Idaho,35,51916
+Illinois,35,453386
+Indiana,35,208719
+Iowa,35,96334
+Kansas,35,96706
+Kentucky,35,141589
+Louisiana,35,165999
+Maine,35,36536
+Maryland,35,199325
+Massachusetts,35,223270
+Michigan,35,294260
+Minnesota,35,185124
+Mississippi,35,100472
+Missouri,35,201801
+Montana,35,30988
+Nebraska,35,63185
+Nevada,35,96343
+New Hampshire,35,36183
+New Jersey,35,275364
+New Mexico,35,68259
+New York,35,699974
+North Carolina,35,315537
+North Dakota,35,23145
+Ohio,35,360793
+Oklahoma,35,129829
+Oregon,35,131397
+Pennsylvania,35,388958
+Rhode Island,35,32673
+South Carolina,35,152758
+South Dakota,35,26612
+Tennessee,35,210686
+Texas,35,914073
+Utah,35,111128
+Vermont,35,17728
+Virginia,35,280372
+Washington,35,235384
+West Virginia,35,53371
+Wisconsin,35,182998
+Wyoming,35,19524
+Puerto Rico,35,125581
+NAME,36,P0120036
+Alabama,36,151464
+Alaska,36,22845
+Arizona,36,204472
+Arkansas,36,91462
+California,36,1269121
+Colorado,36,172502
+Connecticut,36,104194
+Delaware,36,27405
+District of Columbia,36,28479
+Florida,36,555079
+Georgia,36,337246
+Hawaii,36,43110
+Idaho,36,50025
+Illinois,36,431902
+Indiana,36,203102
+Iowa,36,90713
+Kansas,36,88602
+Kentucky,36,138852
+Louisiana,36,147388
+Maine,36,36281
+Maryland,36,189215
+Massachusetts,36,205278
+Michigan,36,289056
+Minnesota,36,168351
+Mississippi,36,95710
+Missouri,36,185922
+Montana,36,28532
+Nebraska,36,57015
+Nevada,36,92840
+New Hampshire,36,36050
+New Jersey,36,281296
+New Mexico,36,62981
+New York,36,649401
+North Carolina,36,314750
+North Dakota,36,19288
+Ohio,36,347242
+Oklahoma,36,118104
+Oregon,36,127972
+Pennsylvania,36,364911
+Rhode Island,36,31107
+South Carolina,36,144797
+South Dakota,36,24234
+Tennessee,36,204785
+Texas,36,877547
+Utah,36,105641
+Vermont,36,17273
+Virginia,36,264423
+Washington,36,223520
+West Virginia,36,55433
+Wisconsin,36,171227
+Wyoming,36,17454
+Puerto Rico,36,128465
+NAME,37,P0120037
+Alabama,37,157352
+Alaska,37,22102
+Arizona,37,205469
+Arkansas,37,92130
+California,37,1282209
+Colorado,37,171255
+Connecticut,37,113764
+Delaware,37,28270
+District of Columbia,37,21478
+Florida,37,593326
+Georgia,37,357605
+Hawaii,37,42762
+Idaho,37,47696
+Illinois,37,429314
+Indiana,37,208104
+Iowa,37,87574
+Kansas,37,85288
+Kentucky,37,141653
+Louisiana,37,138935
+Maine,37,40603
+Maryland,37,195866
+Massachusetts,37,214438
+Michigan,37,309591
+Minnesota,37,162375
+Mississippi,37,96004
+Missouri,37,184926
+Montana,37,27220
+Nebraska,37,54318
+Nevada,37,93687
+New Hampshire,37,41596
+New Jersey,37,298981
+New Mexico,37,61911
+New York,37,640349
+North Carolina,37,335162
+North Dakota,37,17856
+Ohio,37,362042
+Oklahoma,37,115296
+Oregon,37,123336
+Pennsylvania,37,384115
+Rhode Island,37,32545
+South Carolina,37,150777
+South Dakota,37,22490
+Tennessee,37,213862
+Texas,37,887448
+Utah,37,87589
+Vermont,37,18376
+Virginia,37,271926
+Washington,37,221757
+West Virginia,37,58024
+Wisconsin,37,170709
+Wyoming,37,16159
+Puerto Rico,37,125289
+NAME,38,P0120038
+Alabama,38,158364
+Alaska,38,22495
+Arizona,38,200902
+Arkansas,38,91380
+California,38,1295808
+Colorado,38,170281
+Connecticut,38,134482
+Delaware,38,31368
+District of Columbia,38,18598
+Florida,38,629457
+Georgia,38,355383
+Hawaii,38,44364
+Idaho,38,46816
+Illinois,38,437344
+Indiana,38,211685
+Iowa,38,92590
+Kansas,38,86525
+Kentucky,38,145528
+Louisiana,38,145962
+Maine,38,46514
+Maryland,38,217229
+Massachusetts,38,240302
+Michigan,38,335062
+Minnesota,38,175670
+Mississippi,38,95915
+Missouri,38,191692
+Montana,38,28522
+Nebraska,38,54572
+Nevada,38,92166
+New Hampshire,38,49004
+New Jersey,38,332215
+New Mexico,38,62971
+New York,38,692560
+North Carolina,38,337656
+North Dakota,38,18580
+Ohio,38,383473
+Oklahoma,38,113252
+Oregon,38,122602
+Pennsylvania,38,429693
+Rhode Island,38,37495
+South Carolina,38,155291
+South Dakota,38,23138
+Tennessee,38,217494
+Texas,38,847930
+Utah,38,75487
+Vermont,38,21398
+Virginia,38,288464
+Washington,38,227111
+West Virginia,38,59641
+Wisconsin,38,188600
+Wyoming,38,15956
+Puerto Rico,38,127317
+NAME,39,P0120039
+Alabama,39,177266
+Alaska,39,26328
+Arizona,39,214523
+Arkansas,39,104162
+California,39,1347835
+Colorado,39,186487
+Connecticut,39,149515
+Delaware,39,34792
+District of Columbia,39,19005
+Florida,39,709867
+Georgia,39,369524
+Hawaii,39,47574
+Idaho,39,52014
+Illinois,39,476671
+Indiana,39,239066
+Iowa,39,108606
+Kansas,39,101631
+Kentucky,39,163776
+Louisiana,39,165973
+Maine,39,54758
+Maryland,39,239616
+Massachusetts,39,263497
+Michigan,39,376834
+Minnesota,39,202615
+Mississippi,39,107098
+Missouri,39,224667
+Montana,39,35787
+Nebraska,39,64320
+Nevada,39,94266
+New Hampshire,39,57497
+New Jersey,39,359903
+New Mexico,39,73420
+New York,39,749240
+North Carolina,39,357321
+North Dakota,39,22919
+Ohio,39,434709
+Oklahoma,39,131426
+Oregon,39,132278
+Pennsylvania,39,485220
+Rhode Island,39,41865
+South Carolina,39,170918
+South Dakota,39,28566
+Tennessee,39,239001
+Texas,39,885604
+Utah,39,77380
+Vermont,39,25596
+Virginia,39,316166
+Washington,39,246402
+West Virginia,39,67155
+Wisconsin,39,219088
+Wyoming,39,19759
+Puerto Rico,39,132516
+NAME,40,P0120040
+Alabama,40,178760
+Alaska,40,27012
+Arizona,40,213113
+Arkansas,40,102576
+California,40,1296009
+Colorado,40,186820
+Connecticut,40,145364
+Delaware,40,34285
+District of Columbia,40,19050
+Florida,40,690258
+Georgia,40,344248
+Hawaii,40,49147
+Idaho,40,52971
+Illinois,40,474832
+Indiana,40,238931
+Iowa,40,111660
+Kansas,40,103394
+Kentucky,40,162836
+Louisiana,40,168143
+Maine,40,56827
+Maryland,40,229401
+Massachusetts,40,255333
+Michigan,40,389396
+Minnesota,40,201032
+Mississippi,40,107613
+Missouri,40,225725
+Montana,40,40064
+Nebraska,40,65025
+Nevada,40,90601
+New Hampshire,40,56533
+New Jersey,40,346545
+New Mexico,40,75787
+New York,40,732149
+North Carolina,40,346191
+North Dakota,40,24971
+Ohio,40,452317
+Oklahoma,40,134438
+Oregon,40,141300
+Pennsylvania,40,500352
+Rhode Island,40,41912
+South Carolina,40,169755
+South Dakota,40,29538
+Tennessee,40,237066
+Texas,40,846936
+Utah,40,76588
+Vermont,40,26720
+Virginia,40,304062
+Washington,40,249299
+West Virginia,40,72488
+Wisconsin,40,217823
+Wyoming,40,21655
+Puerto Rico,40,129221
+NAME,41,P0120041
+Alabama,41,162273
+Alaska,41,23577
+Arizona,41,196603
+Arkansas,41,95025
+California,41,1134320
+Colorado,41,166598
+Connecticut,41,123458
+Delaware,41,30669
+District of Columbia,41,18280
+Florida,41,633409
+Georgia,41,301772
+Hawaii,41,47192
+Idaho,41,48902
+Illinois,41,415456
+Indiana,41,213258
+Iowa,41,102084
+Kansas,41,92322
+Kentucky,41,148227
+Louisiana,41,150769
+Maine,41,52580
+Maryland,41,198881
+Massachusetts,41,224228
+Michigan,41,349809
+Minnesota,41,175268
+Mississippi,41,97248
+Missouri,41,201548
+Montana,41,38080
+Nebraska,41,59618
+Nevada,41,83628
+New Hampshire,41,48530
+New Jersey,41,293437
+New Mexico,41,71232
+New York,41,645561
+North Carolina,41,315478
+North Dakota,41,22312
+Ohio,41,403417
+Oklahoma,41,120987
+Oregon,41,140566
+Pennsylvania,41,448846
+Rhode Island,41,36726
+South Carolina,41,160558
+South Dakota,41,26786
+Tennessee,41,216270
+Texas,41,731649
+Utah,41,67281
+Vermont,41,24834
+Virginia,41,266004
+Washington,41,231757
+West Virginia,41,70792
+Wisconsin,41,193034
+Wyoming,41,20018
+Puerto Rico,41,121345
+NAME,42,P0120042
+Alabama,42,60731
+Alaska,42,7587
+Arizona,42,75695
+Arkansas,42,36130
+California,42,408232
+Colorado,42,58889
+Connecticut,42,44040
+Delaware,42,11473
+District of Columbia,42,7052
+Florida,42,243468
+Georgia,42,110602
+Hawaii,42,17760
+Idaho,42,17689
+Illinois,42,147327
+Indiana,42,77317
+Iowa,42,36167
+Kansas,42,31958
+Kentucky,42,54748
+Louisiana,42,53721
+Maine,42,19225
+Maryland,42,71337
+Massachusetts,42,81800
+Michigan,42,125139
+Minnesota,42,60810
+Mississippi,42,35233
+Missouri,42,73278
+Montana,42,13311
+Nebraska,42,21051
+Nevada,42,31814
+New Hampshire,42,17518
+New Jersey,42,105685
+New Mexico,42,26207
+New York,42,239946
+North Carolina,42,117103
+North Dakota,42,7493
+Ohio,42,147057
+Oklahoma,42,44203
+Oregon,42,51316
+Pennsylvania,42,161482
+Rhode Island,42,12929
+South Carolina,42,60754
+South Dakota,42,9370
+Tennessee,42,80861
+Texas,42,259433
+Utah,42,23533
+Vermont,42,8787
+Virginia,42,97043
+Washington,42,82860
+West Virginia,42,27349
+Wisconsin,42,67845
+Wyoming,42,6785
+Puerto Rico,42,47277
+NAME,43,P0120043
+Alabama,43,83793
+Alaska,43,9120
+Arizona,43,108311
+Arkansas,43,50545
+California,43,544794
+Colorado,43,78002
+Connecticut,43,62316
+Delaware,43,16724
+District of Columbia,43,9253
+Florida,43,357914
+Georgia,43,150854
+Hawaii,43,23583
+Idaho,43,24085
+Illinois,43,199199
+Indiana,43,104332
+Iowa,43,48940
+Kansas,43,43279
+Kentucky,43,74993
+Louisiana,43,72507
+Maine,43,26074
+Maryland,43,96501
+Massachusetts,43,112452
+Michigan,43,168412
+Minnesota,43,81205
+Mississippi,43,48412
+Missouri,43,100495
+Montana,43,17508
+Nebraska,43,27388
+Nevada,43,44819
+New Hampshire,43,24183
+New Jersey,43,147847
+New Mexico,43,35729
+New York,43,325955
+North Carolina,43,165902
+North Dakota,43,10080
+Ohio,43,197931
+Oklahoma,43,61709
+Oregon,43,69618
+Pennsylvania,43,223806
+Rhode Island,43,18057
+South Carolina,43,87039
+South Dakota,43,12103
+Tennessee,43,111939
+Texas,43,349514
+Utah,43,31174
+Vermont,43,11838
+Virginia,43,133013
+Washington,43,112849
+West Virginia,43,36057
+Wisconsin,43,90224
+Wyoming,43,8904
+Puerto Rico,43,70710
+NAME,44,P0120044
+Alabama,44,47320
+Alaska,44,4736
+Arizona,44,62902
+Arkansas,44,29782
+California,44,300544
+Colorado,44,41252
+Connecticut,44,33675
+Delaware,44,9339
+District of Columbia,44,5157
+Florida,44,211263
+Georgia,44,82057
+Hawaii,44,13826
+Idaho,44,13848
+Illinois,44,108567
+Indiana,44,57537
+Iowa,44,27069
+Kansas,44,24156
+Kentucky,44,41090
+Louisiana,44,40491
+Maine,44,14435
+Maryland,44,52506
+Massachusetts,44,60898
+Michigan,44,92126
+Minnesota,44,44269
+Mississippi,44,27099
+Missouri,44,57028
+Montana,44,9767
+Nebraska,44,15089
+Nevada,44,25399
+New Hampshire,44,12494
+New Jersey,44,79469
+New Mexico,44,19888
+New York,44,178609
+North Carolina,44,91773
+North Dakota,44,5633
+Ohio,44,104629
+Oklahoma,44,36079
+Oregon,44,37941
+Pennsylvania,44,122310
+Rhode Island,44,9738
+South Carolina,44,48331
+South Dakota,44,7027
+Tennessee,44,62602
+Texas,44,195907
+Utah,44,18005
+Vermont,44,6514
+Virginia,44,72595
+Washington,44,61625
+West Virginia,44,19590
+Wisconsin,44,49354
+Wyoming,44,4976
+Puerto Rico,44,40778
+NAME,45,P0120045
+Alabama,45,64424
+Alaska,45,5752
+Arizona,45,86365
+Arkansas,45,40656
+California,45,392790
+Colorado,45,53506
+Connecticut,45,45348
+Delaware,45,13024
+District of Columbia,45,6726
+Florida,45,299777
+Georgia,45,107600
+Hawaii,45,16495
+Idaho,45,18432
+Illinois,45,150599
+Indiana,45,79430
+Iowa,45,37654
+Kansas,45,32332
+Kentucky,45,56885
+Louisiana,45,54744
+Maine,45,19147
+Maryland,45,69217
+Massachusetts,45,80434
+Michigan,45,127238
+Minnesota,45,60768
+Mississippi,45,37224
+Missouri,45,78786
+Montana,45,13334
+Nebraska,45,20689
+Nevada,45,33464
+New Hampshire,45,16756
+New Jersey,45,109899
+New Mexico,45,26040
+New York,45,242347
+North Carolina,45,123126
+North Dakota,45,7493
+Ohio,45,150438
+Oklahoma,45,48034
+Oregon,45,49976
+Pennsylvania,45,172039
+Rhode Island,45,13065
+South Carolina,45,65503
+South Dakota,45,9353
+Tennessee,45,84797
+Texas,45,253924
+Utah,45,23516
+Vermont,45,8490
+Virginia,45,96429
+Washington,45,77785
+West Virginia,45,27600
+Wisconsin,45,68507
+Wyoming,45,6443
+Puerto Rico,45,54455
+NAME,46,P0120046
+Alabama,46,88721
+Alaska,46,6486
+Arizona,46,112398
+Arkansas,46,54026
+California,46,528376
+Colorado,46,67695
+Connecticut,46,58332
+Delaware,46,16505
+District of Columbia,46,8810
+Florida,46,410799
+Georgia,46,137709
+Hawaii,46,22213
+Idaho,46,23458
+Illinois,46,201070
+Indiana,46,105188
+Iowa,46,54151
+Kansas,46,44521
+Kentucky,46,75762
+Louisiana,46,73508
+Maine,46,25403
+Maryland,46,87603
+Massachusetts,46,106210
+Michigan,46,165309
+Minnesota,46,81017
+Mississippi,46,51718
+Missouri,46,104684
+Montana,46,17380
+Nebraska,46,29184
+Nevada,46,41810
+New Hampshire,46,20888
+New Jersey,46,144796
+New Mexico,46,35025
+New York,46,328775
+North Carolina,46,161522
+North Dakota,46,11210
+Ohio,46,204228
+Oklahoma,46,65239
+Oregon,46,63074
+Pennsylvania,46,234349
+Rhode Island,46,17272
+South Carolina,46,83142
+South Dakota,46,13619
+Tennessee,46,112424
+Texas,46,335291
+Utah,46,31067
+Vermont,46,10614
+Virginia,46,124325
+Washington,46,97986
+West Virginia,46,38434
+Wisconsin,46,92400
+Wyoming,46,8468
+Puerto Rico,46,74520
+NAME,47,P0120047
+Alabama,47,70909
+Alaska,47,4742
+Arizona,47,86040
+Arkansas,47,43812
+California,47,429797
+Colorado,47,53452
+Connecticut,47,51344
+Delaware,47,13229
+District of Columbia,47,7038
+Florida,47,335427
+Georgia,47,105579
+Hawaii,47,19735
+Idaho,47,18318
+Illinois,47,166679
+Indiana,47,87068
+Iowa,47,47275
+Kansas,47,39264
+Kentucky,47,60305
+Louisiana,47,59640
+Maine,47,21556
+Maryland,47,71513
+Massachusetts,47,93661
+Michigan,47,139165
+Minnesota,47,67650
+Mississippi,47,40963
+Missouri,47,87765
+Montana,47,13650
+Nebraska,47,26229
+Nevada,47,29880
+New Hampshire,47,17463
+New Jersey,47,125417
+New Mexico,47,27347
+New York,47,274758
+North Carolina,47,128674
+North Dakota,47,10243
+Ohio,47,170813
+Oklahoma,47,53661
+Oregon,47,50348
+Pennsylvania,47,208442
+Rhode Island,47,15426
+South Carolina,47,63954
+South Dakota,47,12249
+Tennessee,47,88880
+Texas,47,268715
+Utah,47,24790
+Vermont,47,8852
+Virginia,47,98618
+Washington,47,77743
+West Virginia,47,31470
+Wisconsin,47,79071
+Wyoming,47,6788
+Puerto Rico,47,57115
+NAME,48,P0120048
+Alabama,48,55087
+Alaska,48,3365
+Arizona,48,66769
+Arkansas,48,33845
+California,48,357837
+Colorado,48,43371
+Connecticut,48,47096
+Delaware,48,10018
+District of Columbia,48,6189
+Florida,48,276098
+Georgia,48,80548
+Hawaii,48,17798
+Idaho,48,14541
+Illinois,48,143362
+Indiana,48,74368
+Iowa,48,42155
+Kansas,48,33914
+Kentucky,48,48201
+Louisiana,48,47396
+Maine,48,18274
+Maryland,48,60161
+Massachusetts,48,84922
+Michigan,48,120220
+Minnesota,48,59051
+Mississippi,48,32337
+Missouri,48,71574
+Montana,48,11561
+Nebraska,48,22565
+Nevada,48,21649
+New Hampshire,48,14913
+New Jersey,48,109704
+New Mexico,48,20734
+New York,48,240667
+North Carolina,48,101823
+North Dakota,48,9234
+Ohio,48,148383
+Oklahoma,48,41235
+Oregon,48,43159
+Pennsylvania,48,190830
+Rhode Island,48,15345
+South Carolina,48,48156
+South Dakota,48,10551
+Tennessee,48,68843
+Texas,48,208177
+Utah,48,19358
+Vermont,48,7600
+Virginia,48,79691
+Washington,48,65375
+West Virginia,48,26139
+Wisconsin,48,69512
+Wyoming,48,5252
+Puerto Rico,48,39418
+NAME,49,P0120049
+Alabama,49,52825
+Alaska,49,3051
+Arizona,49,65662
+Arkansas,49,34868
+California,49,390153
+Colorado,49,46495
+Connecticut,49,57950
+Delaware,49,10630
+District of Columbia,49,7198
+Florida,49,275812
+Georgia,49,80512
+Hawaii,49,18886
+Idaho,49,16234
+Illinois,49,162020
+Indiana,49,79625
+Iowa,49,51307
+Kansas,49,39997
+Kentucky,49,48188
+Louisiana,49,44789
+Maine,49,19797
+Maryland,49,67116
+Massachusetts,49,100174
+Michigan,49,130288
+Minnesota,49,72357
+Mississippi,49,31313
+Missouri,49,77923
+Montana,49,13005
+Nebraska,49,26518
+Nevada,49,19170
+New Hampshire,49,16710
+New Jersey,49,123274
+New Mexico,49,20617
+New York,49,268252
+North Carolina,49,103205
+North Dakota,49,11237
+Ohio,49,158083
+Oklahoma,49,41486
+Oregon,49,51201
+Pennsylvania,49,210280
+Rhode Island,49,18593
+South Carolina,49,49306
+South Dakota,49,12929
+Tennessee,49,69881
+Texas,49,204208
+Utah,49,19681
+Vermont,49,8694
+Virginia,49,83957
+Washington,49,77188
+West Virginia,49,24505
+Wisconsin,49,81055
+Wyoming,49,5549
+Puerto Rico,49,39291
