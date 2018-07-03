@@ -1,21 +1,23 @@
-# TODO(project name) Amazon-Shipment
-A research on Amazon shipment across the U.S.
-## Population distribution
-Credit to: United States Census Bureau, 2017
-![population_distribution.JPG](./images/population_distribution.JPG)
-We choose top five and five cluster centroids.
-https://en.wikipedia.org/wiki/List_of_metropolitan_statistical_areas
 
+# Amazon's Anticipatory Shipping
+Data and scripts for research on Amazon's Anticipatory Shipping in U.S.
 
-We choose shoes, books, electronic devices, household goods and food
+## Environment
 
-shoes:
+ - python >= 3.6.5
+ - pip == 10.0.1
+ - virtualenv == 16.0.0
+ - requirements.txt
+## Usage
 
-FREE Shipping,
-standard Shipping
-two-day Shipping
-one-day Shipping
-
-
-Source:
-United States; Statista Survey; 2017;
+ - /data/*: all data in both json and csv format
+ - /images/*: all related images
+ - /scripts/*:
+	 - crawlers.py: Crawling package based on default urllib
+	 - driver.py: Frontend driver for extracting shipping period based on Selenium
+	 - stor.py: Python object permanent storage based on pickle. Support both json and csv format
+	 - to_csv.py: Script to parse data to csv
+	 - zipcode.py: Script to fetch population age distributation in America, based on official API (Credit to Census Bureau)
+	 - random_token.py: Script to generate 16-based random token. (for username and password)
+	 - goods.py: Script to crawl all goods in one catefory.
+	 - driver.py: Web driver to fetch all goods' shipping period

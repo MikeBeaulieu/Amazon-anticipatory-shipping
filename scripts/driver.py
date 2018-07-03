@@ -1,9 +1,16 @@
+'''\
+    fetch all goods' shipment period based on frontend driver selenium
+    NOTE: css selector must be set before use
+'''
+
 import time
 from selenium import webdriver
 from stor import Box
-from .goods import headphone_page, diaper_page
+from goods import headphone_page, diaper_page
 
 DATA_PATH = '../data/'
+USERNAME = 'BD7C05A8@mail.com'
+PASSWORD = '00000000'
 
 def fetch_each(url):
     try:
@@ -11,10 +18,10 @@ def fetch_each(url):
         driver.get(url)
         driver.find_element_by_css_selector('#nav-link-accountList').click()
         driver.find_element_by_name('email').clear()
-        driver.find_element_by_name('email').send_keys('BD7C05A8@mail.com')
+        driver.find_element_by_name('email').send_keys(USERNAME)
         driver.find_element_by_id('continue').click()
         driver.find_element_by_name('password').clear()
-        driver.find_element_by_name('password').send_keys('00000000')
+        driver.find_element_by_name('password').send_keys(PASSWORD)
         driver.find_element_by_id('signInSubmit').click()
         driver.find_element_by_css_selector('#tmmSwatches ul li:nth-child(2) a').click()
         try:
@@ -24,7 +31,7 @@ def fetch_each(url):
         driver.find_element_by_id('hlb-ptc-btn-native').click()
         driver.find_element_by_css_selector('#address-book-entry-0 div.ship-to-this-address span a').click()
         date = driver.find_element_by_css_selector('div.a-box.selected div.description span span').text
-        for i in range(len(date) - 1, -1, -1):
+        for i in range(len(date)-1, -1, -1):
             if date[i] == ',':
                 date = date[i+2:]
                 break
@@ -59,6 +66,4 @@ def fetch_each_run():
     # box.put_json('shoe_shipment', shipment, force=True)
 
 if __name__ == '__main__':
-    baby = 57770 # diapers
-    teenager = 95124 # most electronics
-    aged = 33880 # products by aged
+    pass

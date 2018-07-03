@@ -1,7 +1,9 @@
+'''\
+    parse data to csv files
+'''
+
 import csv
 import stor
-import pandas
-import json
 
 DATA_PATH = '../data/'
 

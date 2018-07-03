@@ -1,3 +1,8 @@
+'''\
+    fetch all goods in one category
+    NOTE: css selector must be set before use
+'''
+
 from crawler import page_of
 from pyquery import PyQuery as pq
 from stor import Box
@@ -34,6 +39,7 @@ def fetch_shoes():
     # box = Box(DATA_PATH)
     # box.put('shoe_list', links, force=True)
     # box.put_json('shoe_list', links, force=True)
+
     return links
 
 def fetch_books():
@@ -47,9 +53,11 @@ def fetch_books():
         for i in range(0, len(select), 3):
             links.append('https://www.amazon.com' + pq(select[i]).attr('href'))
     links = links[:50]
+
     # box = Box(DATA_PATH)
     # box.put('book_list', links)
     # box.put_json('book_list', links)
+
     return links
 
 if __name__ == '__main__':

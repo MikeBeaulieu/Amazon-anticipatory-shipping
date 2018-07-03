@@ -1,4 +1,5 @@
 '''\
+    stor v1.0
     object permanent storage based on pickle
     box = stor.Box(path)
     box.put('simple_list', [0, 1, 2])

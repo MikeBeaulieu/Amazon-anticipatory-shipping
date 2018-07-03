@@ -1,3 +1,7 @@
+'''\
+    fetch population age distributation in America, based on official API
+'''
+
 from urllib import request
 import json
 import stor
@@ -53,7 +57,4 @@ def format_data():
     box.put('population', data_format, force=True)
 
 if __name__ == '__main__':
-    box = stor.Box(DATA_PATH)
-    data = box.get('population')
-    data = sorted(data[1:], key=lambda x:x[2])
-    print(data)
+    pass
